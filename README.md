@@ -3,6 +3,8 @@ Pokémon Nickname Generator A fun web app that creates unique Pokémon nicknames
 
 # README - Seu Nickname Pokémon / Your Pokémon Nickname
 
+# Site exemple: https://pokemon-beta-lake.vercel.app/
+
 ## Português 🇧🇷
 
 ### 📝 Sobre o Projeto
@@ -60,7 +62,7 @@ O "Seu Nickname Pokémon" é um site interativo que gera um apelido único combi
 ---
 
 ### 🌐 Live Demo
-[Link para o site ao vivo] / [Live website link]
+[[Link para o site ao vivo] / [Live website link]](https://pokemon-beta-lake.vercel.app/)
 
 ### 📄 Licença / License
 MIT - Livre para uso e modificação / Free to use and modify
